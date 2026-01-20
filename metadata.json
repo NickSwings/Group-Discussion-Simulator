@@ -1,0 +1,7 @@
+{
+  "name": "Group Discussion Simulator",
+  "description": "A group discussion simulator with AI participants, voice interaction, and an AI judge.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
